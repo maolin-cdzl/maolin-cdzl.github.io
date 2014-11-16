@@ -8,9 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 毛林随笔
+title : 毛林de随笔
 tagline: [program,c++]
-#打小我就有一个梦想，生为地主家的儿子，家有良田千顷，终日不学无术，每天领着一帮狗奴才上街去调戏一下良家妇女。
 
 author :
   name : 毛林
